@@ -387,7 +387,7 @@ sfListView1.Style.FooterItemStyle.Font = New Font("Segoe UI Semibold", 11)
 {% endhighlight %}
 {% endtabs %}
 
-![](HeaderFooter_images/FooterAppearance.png)
+![WinForms Listview Footer Appearance](HeaderFooter_images/FooterAppearance.png)
 
 ## Loading image for header
 
